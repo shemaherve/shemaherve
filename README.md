@@ -66,7 +66,7 @@ Hireable: Yes 🟢
 | [**my-latest-portfolio**](https://github.com/shemaherve/my-latest-portfolio) | `TypeScript` | Modern developer portfolio application showcasing full-stack capabilities and interactive UI components. |
 | [**Brog**](https://github.com/shemaherve/Brog) | `PHP` | Full-stack blog platform featuring robust authentication, RBAC administration dashboard, and multimedia post handling. |
 | [**agaseke_wallet_in_java**](https://github.com/shemaherve/agaseke_wallet_in_java) | `Java` | Digital student savings and financial management system designed for secure online fund tracking. |
-| [**shekata-Ai**](https://github.com/shekata-Ai) | `Python` | AI and computer vision utility automating image background removal and edge refinement. |
+| [**shekata-Ai**](https://github.com/shemaherve/shekata-Ai) | `Python` | AI and computer vision utility automating image background removal and edge refinement. |
 | [**TSM-Lab-web-**](https://github.com/shemaherve/TSM-Lab-web-) | `JavaScript` | Enterprise corporate web application designed for TSM Lab with responsive service showcases. |
 | [**Leon-infinity**](https://github.com/shemaherve/Leon-infinity) | `TypeScript` | Responsive web application emphasizing clean architectural patterns and modern state management. |
 
